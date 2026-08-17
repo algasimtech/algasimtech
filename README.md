@@ -1,5 +1,3 @@
-# GitHub Profile README
-
 # 👋 Hi, I'm Algasim Jallow
 
 <div align="center">
