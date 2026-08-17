@@ -8,9 +8,9 @@
 
 🎓 Final-year Computer Science Student (Minor in Mathematics)
 
-🌍 Based in The Gambia
+🌍 The Gambia
 
-💻 Building full-stack web applications and exploring the future of data-driven technologies.
+💻 Building modern web applications and exploring data-driven technologies.
 
 </div>
 
@@ -20,55 +20,44 @@
 
 I'm a final-year Computer Science student at the University of The Gambia with a minor in Mathematics.
 
-I enjoy building responsive, scalable, and user-focused web applications that solve real-world problems. My experience spans modern frontend and backend technologies, as well as database systems used in production environments.
+I enjoy building responsive, scalable, and user-focused applications that solve real-world problems.
 
-I've worked on both academic and real-world projects, including business websites and full-stack platforms featuring authentication, role-based access control, image management, and multilingual support.
+My experience spans modern frontend and backend development, database systems, authentication, role-based access control, multilingual applications, and RESTful APIs.
 
-I'm currently expanding my knowledge of AI integration in web applications while also exploring mobile application development.
+My mathematics background has sparked a strong interest in data science and data analysis. Although my current work focuses on full-stack web development, I intend to explore machine learning and data-driven applications in the future.
 
-My background in mathematics has sparked a growing interest in data science and data analysis. Although my current work focuses on full-stack web development, I plan to explore data-driven applications and machine learning in the future.
+I'm also learning how to integrate AI into web applications and gradually expanding into mobile development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies
 
-### Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,nodejs,express,nestjs,mongodb,mysql,postgres,tailwind,bootstrap,git,vscode,figma" />
+</p>
 
-- JavaScript
-- TypeScript
-- SQL
-- Java
-- HTML5
-- CSS3
+## 🚀 Featured Projects
 
-### Frontend
+### 🌐 SPS Alumni Website
 
-- React
-- Next.js
-- Angular
-- Tailwind CSS
-- Bootstrap
-- Sass
+- Full-stack alumni association platform
+- Angular, Node.js, Express.js, MongoDB
+- JWT authentication
+- Administrative dashboard
+- Cloudinary integration
 
-### Backend
+https://sps-alumni.org
 
-- Node.js
-- Express.js
-- Nest.js
-- RESTful APIs
+---
 
-### Databases
+### 🌐 Dot Collection Global Designs
 
-- PostgreSQL
-- MySQL
-- MongoDB
+- Responsive business website
+- React-based frontend
+- SEO optimization
+- Multilingual support
 
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Figma
+https://dotcollectionglobal.com
 
 ---
 
@@ -76,48 +65,17 @@ My background in mathematics has sparked a growing interest in data science and 
 
 - AI integration in web applications
 - Mobile application development
-- Data science fundamentals
+- Data science
 - Data analysis
-- Advanced backend architecture
-- Machine learning concepts
-
----
-
-## 🚀 Featured Projects
-
-### Dot Collection Global Designs
-
-- Fully responsive business website
-- Multilingual support (English, French, and Arabic)
-- SEO optimization
-
-🌐 https://dotcollectionglobal.com
-
----
-
-### SPS Alumni Website
-
-- Full-stack alumni management platform
-- JWT authentication
-- Cloudinary image management
-- Administrative dashboard
-
-🌐 https://sps-alumni.org
-
----
-
-## 📚 Education
-
-**Bachelor of Science in Computer Science**
-**Minor: Mathematics**
-**University of The Gambia**
+- Machine learning fundamentals
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 Email: algasim2019019@gmail.com
-- 💻 GitHub: https://github.com/algasimtech
+📧 algasim2019019@gmail.com
+
+💻 https://github.com/algasimtech
 
 ---
 
