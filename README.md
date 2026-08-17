@@ -109,22 +109,8 @@ My background in mathematics has sparked a growing interest in data science and 
 ## 📚 Education
 
 **Bachelor of Science in Computer Science**
-
 **Minor: Mathematics**
-
 **University of The Gambia**
-
----
-
-## 📈 GitHub Statistics
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=algasimtech&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=algasimtech&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=algasimtech)
-```
 
 ---
 
