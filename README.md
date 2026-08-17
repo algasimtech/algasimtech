@@ -33,7 +33,7 @@ I'm also learning how to integrate AI into web applications and gradually expand
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,nodejs,express,nestjs,mongodb,mysql,postgres,tailwind,bootstrap,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,angular,nodejs,express,nestjs,mongodb,mysql,postgres,tailwind,bootstrap" />
 </p>
 
 ## 🚀 Featured Projects
